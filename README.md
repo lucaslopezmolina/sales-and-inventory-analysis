@@ -23,6 +23,8 @@
 ## Tools & Technologies
 
 -PostgreSQL (SQL modeling & queries)
+
 -DBeaver (database management)
+
 -Power BI (dashboard & storytelling)
--Python (optional EDA)
+
